@@ -33,6 +33,7 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:1.1.2'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.1.0-beta02'
+    androidTestImplementation 'androidx.test.ext:junit:1.0.0-beta02'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.0-beta02'
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:0.30.2'
     // ViewModel and LiveData

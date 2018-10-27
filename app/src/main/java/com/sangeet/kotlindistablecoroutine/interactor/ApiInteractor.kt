@@ -1,7 +1,6 @@
 package com.sangeet.kotlindistablecoroutine.interactor
 
-import kotlinx.coroutines.experimental.delay
-
+import kotlinx.coroutines.delay
 /**
  * @author sangeet.suresh on 19/10/18
  */
